@@ -1,4 +1,3 @@
-# Data pre-processing and train-test-split
 
 # Import the dataframe 
 df<- read.csv("Salary_simple_linear_regression.csv")
